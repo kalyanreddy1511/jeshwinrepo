@@ -1,0 +1,1 @@
+Here are the main reasons why Git is not secure: There are no authentication or verification measures. You can only control Git with server access. And developers can easily rewrite your change history.
